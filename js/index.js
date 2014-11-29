@@ -9,6 +9,8 @@
 (function () {
     "use strict";
 
+    var x = 0;
+
     /**
      * Throws alert for boolean parameter.
      * @param {Boolean} someTrueFalseValue
